@@ -6,7 +6,7 @@
 }
 
 .bg-container {
-    min-height: 99vh;
+    min-height: 100vh;
     display: flex;
     padding: 20px;
     flex-direction: column;
