@@ -20,7 +20,13 @@
     font-family: Monospace;
     color: white;
     text-align: center;
-    width:90%;
+}
+
+.title2 {
+    font-family: Monospace;
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
 
 .bottle-img {
